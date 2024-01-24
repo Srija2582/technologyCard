@@ -1,0 +1,11 @@
+.card-bg {
+  background-color: white;
+  border: 1px solid red;
+  margin: 10px;
+  height: 250px;
+  width: 400px;
+  border-radius: 10px;
+}
+.img {
+  text-align: end;
+}
